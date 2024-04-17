@@ -16,12 +16,12 @@
   <div>&nbsp;</div>
 
   <!-- profile logo -->
-  [![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff)](https://www.java.com/zh-CN/) [![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=ffffff)](https://golang.org/)
+  [![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff)](https://www.java.com/zh-CN/) [![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=ffffff)](https://golang.org/)[![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)](https://www.python.org/)[![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=ffffff)](https://en.wikipedia.org/wiki/C%2B%2B)[![Nodejs](https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white)](https://nodejs.org/en)[![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=ffffff)](https://reactjs.org/)[![NestJs](https://img.shields.io/badge/-NestJs-E0234E?style=flat-square&logo=nestjs&logoColor=ffffff)](https://nestjs.com/)[![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=ffffff)](https://www.docker.com/)[![Spring Cloud](https://img.shields.io/badge/-Spring%20Cloud-6DB33F?style=flat-square&logo=spring&logoColor=ffffff)](https://spring.io/projects/spring-cloud)
   <div>
-    <a href="https://mp.sunguoqi.com"><img src="https://img.shields.io/badge/WeChat-微信-07c160" /></a>&emsp;
+<!--     <a href="https://mp.sunguoqi.com"><img src="https://img.shields.io/badge/WeChat-微信-07c160" /></a>&emsp;
     
     <!-- visitor statistics logo 访问量统计徽标 -->
-     <img src="https://komarev.com/ghpvc/?username=nyuZyjCs&label=Views&color=0e75b6&style=flat" alt="Views" />
+     <img src="https://komarev.com/ghpvc/?username=nyuZyjCs&label=Views&color=0e75b6&style=flat" alt="Views" /> -->
   </div>
 
   <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
